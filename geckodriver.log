@@ -57,3 +57,376 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 119: TypeE
 1613449380625	Marionette	ERROR	[51] No reply from Marionette:Register
 1613449473651	Marionette	ERROR	[55] No reply from Marionette:Register
 1613485462640	Marionette	INFO	Stopped listening on port 59481
+1614887548797	geckodriver	INFO	Listening on 127.0.0.1:58875
+1614887549657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofilel4G691"
+2021-03-04 14:52:33.840 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x14119bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.840 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141483800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.841 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141483000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.841 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141486000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.841 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141482c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.842 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141483400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 14:52:33.842 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141490800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614887554982	Marionette	INFO	Listening on port 58886
+1614887555082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614887555098	Marionette	ERROR	[19] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+2021-03-04 15:06:39.690 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x10aa1c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.690 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141c80c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.690 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141c81c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.691 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141c82000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.691 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141c82400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.691 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141c82800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:06:39.692 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x143a50800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.009 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x133218c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.009 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141915c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.010 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x14191b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.010 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x14191b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.010 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSButton: 0x141916400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.011 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141914c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:15.011 firefox-bin[9092:520549] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14191e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1614888446264	geckodriver	INFO	Listening on 127.0.0.1:59408
+1614888446272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofile40OWGz"
+2021-03-04 15:07:27.899 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x14312d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.899 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x1434cdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.900 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x1434ca000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.900 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x1434cbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.900 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x1434c9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.901 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1434ce400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 15:07:27.901 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1434d0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614888448863	Marionette	INFO	Listening on port 59417
+1614888448894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614888448905	Marionette	ERROR	[19] No reply from Marionette:Register
+1614888450781	Marionette	INFO	Stopped listening on port 58886
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614889202003	Marionette	ERROR	[39] No reply from Marionette:Register
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+JavaScript error: resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js, line 397: TypeError: this.layouts[target.getAttribute(...)] is undefined
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+2021-03-04 16:29:38.901 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x12c113400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.903 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x135b43800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.903 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x144fc5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.903 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x14a886c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.904 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSButton: 0x14a882800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.904 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14a883c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:29:38.905 firefox-bin[10110:536911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x17d23b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b443400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b443400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b443400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b443400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b447000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b447000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b447000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17b447000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=173646800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=173646800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=173646800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17382c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17382c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17382c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17382c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17382c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1722d5800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1722d5800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17322f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1742f2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1742f2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1742f2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1742f2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1742f2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=176da6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=176da6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=176da6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=176da6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=176da6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1729d9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1729d9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1729d9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=1729d9800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17309a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17309a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17309a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=17309a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=171bc0400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 10114, MediaDecoderStateMachine #1] WARNING: Decoder=171bc0400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:934:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:708:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:454:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:454:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:454:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:454:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614895193541	geckodriver	INFO	Listening on 127.0.0.1:60960
+1614895193554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileqNeP8U"
+2021-03-04 16:59:55.196 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSButton: 0x14162dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.196 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSButton: 0x1418cc800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.197 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSButton: 0x1418c7000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.197 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSButton: 0x1418cc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.197 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSButton: 0x1418ca400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.198 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1418c8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 16:59:55.198 firefox-bin[11607:609245] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1418d0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895196162	Marionette	INFO	Listening on port 60969
+1614895196278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895196287	Marionette	ERROR	[19] No reply from Marionette:Register
+1614895219361	Marionette	ERROR	[37] No reply from Marionette:Register
+1614895275233	Marionette	INFO	Stopped listening on port 60969
+1614895277686	Marionette	INFO	Stopped listening on port 59417
+1614895283708	geckodriver	INFO	Listening on 127.0.0.1:61070
+1614895284731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileDbg1q1"
+2021-03-04 17:01:26.365 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSButton: 0x13f089800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.366 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSButton: 0x13f091000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.366 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSButton: 0x13f093c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.366 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSButton: 0x13f090c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.367 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSButton: 0x13f08f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.367 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13f08e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:01:26.367 firefox-bin[11634:611017] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13f89c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895287361	Marionette	INFO	Listening on port 61081
+1614895287438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895287447	Marionette	ERROR	[16] No reply from Marionette:Register
+1614895370885	Marionette	INFO	Stopped listening on port 61081
+1614895376388	geckodriver	INFO	Listening on 127.0.0.1:61200
+1614895376394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofilekdAGT3"
+2021-03-04 17:02:58.025 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSButton: 0x143258400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.025 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSButton: 0x14325f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.025 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSButton: 0x14325fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.026 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSButton: 0x143263800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.026 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSButton: 0x14325f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.026 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14325ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:02:58.027 firefox-bin[11666:612902] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14349c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895379074	Marionette	INFO	Listening on port 61209
+1614895379126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895379137	Marionette	ERROR	[16] No reply from Marionette:Register
+1614895391295	geckodriver	INFO	Listening on 127.0.0.1:61296
+1614895392308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileHkt6dB"
+2021-03-04 17:03:13.960 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSButton: 0x143112c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.961 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSButton: 0x1434adc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.961 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSButton: 0x1434ab000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.961 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSButton: 0x1434ab800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.962 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSButton: 0x1434ab400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.962 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1434a8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:03:13.962 firefox-bin[11675:613607] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1434b1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895394443	Marionette	INFO	Stopped listening on port 61209
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895395125	Marionette	INFO	Listening on port 61307
+1614895395242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895395254	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614895426992	Marionette	ERROR	[37] No reply from Marionette:Register
+1614895556173	Marionette	ERROR	[41] No reply from Marionette:Register
+1614895626314	Marionette	ERROR	[45] No reply from Marionette:Register
+1614895718111	geckodriver	INFO	Listening on 127.0.0.1:61450
+1614895719131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileRsjA30"
+2021-03-04 17:08:40.841 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSButton: 0x14321dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.841 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSButton: 0x143587000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.842 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSButton: 0x143589400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.842 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSButton: 0x143587c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.842 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSButton: 0x14358a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.843 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x143588c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:08:40.843 firefox-bin[11747:619358] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14358f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895721929	Marionette	INFO	Listening on port 61461
+1614895721968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895721977	Marionette	ERROR	[19] No reply from Marionette:Register
+1614895723342	Marionette	INFO	Stopped listening on port 61307
+1614895747921	geckodriver	INFO	Listening on 127.0.0.1:61583
+1614895747928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileq1QHmS"
+2021-03-04 17:09:09.572 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSButton: 0x13fa16000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.572 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSButton: 0x13fd83c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.573 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSButton: 0x13fd85800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.573 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSButton: 0x13fd85400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.573 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSButton: 0x13fd87c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.574 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13fd88000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:09:09.574 firefox-bin[11775:620564] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13fd8ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614895750571	Marionette	INFO	Listening on port 61592
+1614895750656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614895750668	Marionette	ERROR	[19] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614896245992	Marionette	ERROR	[37] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614896322649	geckodriver	INFO	Listening on 127.0.0.1:61972
+1614896322665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileu9xCD9"
+2021-03-04 17:18:44.316 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x141020000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.317 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1413c6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.317 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1413c8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.318 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1413cd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.318 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1413ca000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.318 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1413c8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:18:44.319 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1413d2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614896325426	Marionette	INFO	Listening on port 61981
+1614896325471	Marionette	INFO	Stopped listening on port 61461
+1614896325488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614896325500	Marionette	ERROR	[19] No reply from Marionette:Register
+1614896327540	Marionette	INFO	Stopped listening on port 61592
+1614896406348	Marionette	ERROR	[37] No reply from Marionette:Register
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1614896759240	Marionette	ERROR	[41] No reply from Marionette:Register
+1614896774199	Marionette	ERROR	[43] No reply from Marionette:Register
+1614896793257	Marionette	ERROR	[45] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+2021-03-04 17:27:18.543 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1293d4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.544 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x12b027400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.544 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x132fc4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.544 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x132fcb400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.545 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSButton: 0x1339c4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.545 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1339bf400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-04 17:27:18.545 firefox-bin[11898:627932] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x163eb7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614900112716	Marionette	ERROR	[50] No reply from Marionette:Register
+1614900115109	Marionette	ERROR	[52] No reply from Marionette:Register
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+1614925675308	Marionette	INFO	Stopped listening on port 61981
+1615062308215	geckodriver	INFO	Listening on 127.0.0.1:52505
+1615062309141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileih1sRk"
+2021-03-06 15:25:13.631 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSButton: 0x14383a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.631 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSButton: 0x143bb7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.631 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSButton: 0x143bb4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.632 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSButton: 0x143bb5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.632 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSButton: 0x143bb5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.632 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x143bb2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-06 15:25:13.633 firefox-bin[2993:137012] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x143bbf400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615062314851	Marionette	INFO	Listening on port 52516
+1615062314921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615062314936	Marionette	ERROR	[19] No reply from Marionette:Register
+1615062315890	Marionette	INFO	Stopped listening on port 52516
+1615914381866	geckodriver	INFO	Listening on 127.0.0.1:50908
+1615914382801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofilex2LVoR"
+2021-03-16 13:06:27.407 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x141c2f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.407 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x141fd6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.408 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x141fd6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.408 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x141fd8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.408 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x141fdb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.409 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141fdb400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 13:06:27.409 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141fe4000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615914388604	Marionette	INFO	Listening on port 50920
+1615914388664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615914388674	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+2021-03-16 19:02:16.078 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x10b526400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.078 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x14d8a5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.079 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x14d8a2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.079 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x14d8a4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.079 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSButton: 0x14d8a8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.080 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14d8a7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 19:02:16.080 firefox-bin[9974:142369] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14d8a9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1615944646849	Marionette	INFO	Stopped listening on port 50920
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615944666691	geckodriver	INFO	Listening on 127.0.0.1:53127
+1615944666810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sr/42kh5f5x7rq6yf9rpd6g1lw40000gn/T/rust_mozprofileb7Vy9w"
+2021-03-16 21:31:08.468 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSButton: 0x143640000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.469 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSButton: 0x14363d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.469 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSButton: 0x143640c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.469 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSButton: 0x14363ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.470 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSButton: 0x143641000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.470 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14363e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-03-16 21:31:08.470 firefox-bin[14537:305160] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1436e9400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615944669503	Marionette	INFO	Listening on port 53136
+1615944669520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615944669527	Marionette	ERROR	[19] No reply from Marionette:Register
